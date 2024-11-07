@@ -1,2 +1,2 @@
 # My_SQL
-These are my practices and lab projects of my_sql.
+A collection of MySQL practice exercises and lab projects demonstrating database concepts, queries, and data manipulation techniques.
